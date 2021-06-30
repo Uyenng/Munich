@@ -1,0 +1,33 @@
+
+    /*begin styleshhet*/
+    h3
+    {
+        color:darkblue;
+        font-size: 20px;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    body
+    {background-image: url(https://i.pinimg.com/originals/e5/9d/11/e59d117b548bf1427c624d721d5674b6.jpg); 
+    background-size: cover;
+    margin:0;
+    }
+    
+    #container /* selector */
+    {
+        background-color: lightsalmon;
+        width:1200px;
+        margin-left: auto; /* equal left and right spacing to center in browser */
+        margin-right: auto;
+        height: auto;
+    }
+    #banner /* selector */
+    {
+        width:1200px;
+        height:250px;
+        background-color: gold;
+        background-size: unset;
+   
+        background-position: 50%50%;/* position the actual image in that space */
+        background-image: url(https://tastykitchen.com/recipes/wp-content/uploads/sites/2/2013/05/Homemade-Soft-Pretzel-Sticks-Honey-Mustard-Dipping-Sauce-by-Ann-How-Crazy-Cooks-on-May-29-2013-410x273.jpg
+      );}
+ 
